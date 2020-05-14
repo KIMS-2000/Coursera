@@ -1,0 +1,18 @@
+1)Identify two embedded systems that are sold on the market today and analyze their interfaces.
+                              1.Smoke detector
+                              2.water level indicator
+                              
+2)Describe all inputs to each system and outputs from each system.
+
+For the smoke detector, the input is the smoke fumes and output is a buzzer sound which blows whenever any smoke fumes are encountered. For water level indicator, the input is the water rising from the bottom to top of the tank by placing the sensor at some distance from bottom of tank, and the output is the buzzer sound which indicates that water is reached to the desired level, so that the water supply into the tank is cutoff.   
+
+3)Classify the inputs and outputs based on their mode of interaction:
+
+-Visual - describing data carried by visible light
+-Audio - describing data carried by sound
+-Tactile - describing data carried by touch
+-Electronic - describing data encoded in electrical signals
+
+Ans: Smoke Detector input visual:smoke fumes output 
+      Audio:buzzer sound Water level indicator input 
+     Tactile:water level touching the sensor by attaining the desired level output Audio;buzzer sound
