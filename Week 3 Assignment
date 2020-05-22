@@ -1,0 +1,29 @@
+Statement I)Research two microcontrollers and provide information about them from their datasheets. There are several microcontroller manufacturers that you can investigate including Atmel, Microchip, Freescale, TI, etc. For each microcontroller, report the following information. (Be sure to include a link to an online reference where you found this information.)  
+
+Ans:
+1)Micro Controller-EFM8 busy bee family - EFM8BB1
+                       Clock Frequency - 80kHz to 25MHz
+                       Bitwidth of the datapath - 8 bit
+                       Size of flash memory - upto 8kb flash memory
+                       Number of pins - 18
+                       Does the microcontroller contain an Analog-to-Digital Converter? - YES
+                       12 bit Analog to Digital converter 
+                       https://www.mouser.in/ProductDetail/Silicon-Labs/EFM8BB10F8G-A-QSOP24?qs=DCjbIwhU0Ztwhi4LE8xIbQ%3D%3D 
+2)Micro controller - RL78/G10 
+                        Clock Frequency- 1 to 20MHz
+                        Bitwidth of the datapath - 16 bit
+                        Size of flash memory - upto 4kb flash memory
+                        Number of Pins - 16 pins
+                        Does the microcontroller contain an Analog-to-Digital Converter? - Yes
+                        8/10 bit A/D converter - 7 Channels
+                        https://www.renesas.com/sg/en/products/microcontrollers-microprocessors/rl78/rl78g1x/rl78g10.html  
+
+Statement II)Research the Arduino and Raspberry Pi platforms. 
+Indicate if there are operating systems which can be used on each platform. If there are, list those operating systems
+State whether the operating systems are open source or not. 
+
+Ans:
+1)Arduino: None
+  Raspberry Pi: Raspbian
+2)Arduino: None
+  Raspberry Pi: Yes
